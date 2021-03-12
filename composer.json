@@ -1,0 +1,21 @@
+{
+    "name": "lexa/calculatorotlehi",
+    "description": "Test",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "CalculatorOtLehi\\":"src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lexa Space22",
+            "email": "aleksej-feb@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
